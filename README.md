@@ -51,14 +51,24 @@ pip install pywin32
 ```json
 [
     [1920, 1080],
+    [1600, 900],
+    [1366, 768],
+    [1280, 720],
+
     [1440, 1080],
-    [1680, 1050],
     [1280, 960],
+    [1024, 768],
+
+    [1680, 1050],
     [1440, 900],
+
     [1568, 1080],
     [1280, 882],
-    [1024, 768]
+
+    [1080, 1080]
+
 ]
+
 ```
 
 2. Run the script:
@@ -73,7 +83,7 @@ python resgamma_switcher.py
 
 ## 📷 Screenshots
 
-![Aperture GUI](https://i.imgur.com/LXrfbWS.png)
+![Aperture GUI](https://i.imgur.com/sHAXHx3.png)
 
 ## 📄 License
 
